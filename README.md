@@ -6,10 +6,15 @@ The dataset used for training and evaluating the fire detection model can be fou
 
 # Libraries Used
 The project utilizes the following libraries:
+
 TensorFlow
+
 Keras
+
 NumPy
+
 OpenCV (cv2)
+
 Matplotlib
 
 # Model Architecture
