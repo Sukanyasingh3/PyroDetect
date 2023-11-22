@@ -64,8 +64,9 @@ After training, the model achieves an accuracy of 92% on the train set and 76% o
 ![Loss](https://github.com/Sukanyasingh3/Fire-Detection-for-CCTV/assets/113462236/e207a52d-20a6-4858-a98f-fb31b43702e8)
 
 # Contributing
+![gif3](https://github.com/Sukanyasingh3/Fire-Detection-for-CCTV/assets/113462236/6f4ebeb3-cc50-4e33-babc-32f9f6012709)
 
-<img src="https://github.com/Sukanyasingh3/Sukanyasingh3/blob/main/gif2.gif" />
+
 
 If you would like to contribute to the project, follow these steps:
 
