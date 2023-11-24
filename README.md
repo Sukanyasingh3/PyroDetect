@@ -1,7 +1,9 @@
-# Fire Detection for CCTV
+<div align='center'>
+ 
+# PyroDetect: Fire Detection for CCTV
 
-Fire Detection for CCTV is a comprehensive project featuring a Convolutional Neural Network (CNN) model tailored for fire detection in CCTV footage. Crafted with TensorFlow and Keras, this innovative solution efficiently analyzes image data to classify the presence or absence of fire. Leveraging deep learning techniques, the model enhances surveillance systems by providing real-time identification of potential fire incidents. Its robust design ensures accuracy and reliability in discerning critical situations, making it a valuable addition to security infrastructure. This repository serves as a resource for implementing cutting-edge fire detection capabilities, contributing to enhanced safety measures in diverse environments.
-
+PyroDetect is a comprehensive project featuring a Convolutional Neural Network (CNN) model tailored for fire detection in CCTV footage. Crafted with TensorFlow and Keras, this innovative solution efficiently analyzes image data to classify the presence or absence of fire. Leveraging deep learning techniques, the model enhances surveillance systems by providing real-time identification of potential fire incidents. Its robust design ensures accuracy and reliability in discerning critical situations, making it a valuable addition to security infrastructure. This repository serves as a resource for implementing cutting-edge fire detection capabilities, contributing to enhanced safety measures in diverse environments.
+</div>
  
 # Dataset
 The dataset used for training and evaluating the fire detection model can be found on Kaggle at the following link: [Fire Detection Dataset](https://www.kaggle.com/datasets/tharakan684/urecamain). The dataset consists of images labeled as either containing fire or not containing fire.
