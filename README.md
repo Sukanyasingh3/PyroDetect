@@ -28,7 +28,7 @@ To use this project, follow these steps:
 1. Clone the repository:
 
 ```bash
-   git clone https://github.com/Sukanyasingh3/Fire-Detection-for-CCTV.git
+   git clone https://github.com/Sukanyasingh3/PyroDetect.git
    ```
 2. Install the required dependencies:
   ```bash
@@ -39,7 +39,7 @@ To use this project, follow these steps:
 1. Navigate to the project directory:
 
 ```bash
-   cd Fire-Detection-for-CCTV
+   cd PyroDetect
    ```
 2. Install the required dependencies:
   ```bash
