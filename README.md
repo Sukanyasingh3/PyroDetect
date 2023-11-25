@@ -7,8 +7,13 @@
 </div>
  
 # Dataset
-The dataset used for training and evaluating the fire detection model can be found on Kaggle at the following link: [Fire Detection Dataset](https://www.kaggle.com/datasets/tharakan684/urecamain). The dataset consists of images labeled as either containing fire or not containing fire.
+The dataset used for training and evaluating the fire detection model can be found on Kaggle at the following link:
+##   [Fire Detection Dataset](https://www.kaggle.com/datasets/tharakan684/urecamain) 
 
+
+The Fire Detection Dataset is a comprehensive collection of images meticulously labeled as either containing instances of fire or being devoid of any fire-related elements. This binary classification is crucial for training the PyroDetect model to accurately discern the presence or absence of fire in diverse scenarios.
+
+The dataset is designed to encompass a wide range of scenarios and environmental conditions. Images within the dataset capture varying lighting conditions, perspectives, and contexts, ensuring that the PyroDetect model is exposed to the diversity it may encounter in real-world surveillance footage.
 # Libraries Used
 The project utilizes the following libraries: 
 
