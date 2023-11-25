@@ -1,8 +1,10 @@
 <div align='center'>
  
 # PyroDetect: Fire Detection for CCTV
+![Screenshot (183)](https://github.com/Sukanyasingh3/PyroDetect/assets/113462236/80aa7251-6900-4497-91df-ed5db21377bc)
 
-PyroDetect is a comprehensive project featuring a Convolutional Neural Network (CNN) model tailored for fire detection in CCTV footage. Crafted with TensorFlow and Keras, this innovative solution efficiently analyzes image data to classify the presence or absence of fire. Leveraging deep learning techniques, the model enhances surveillance systems by providing real-time identification of potential fire incidents. Its robust design ensures accuracy and reliability in discerning critical situations, making it a valuable addition to security infrastructure. This repository serves as a resource for implementing cutting-edge fire detection capabilities, contributing to enhanced safety measures in diverse environments.
+
+### PyroDetect is a comprehensive project featuring a Convolutional Neural Network (CNN) model tailored for fire detection in CCTV footage. Crafted with TensorFlow and Keras, this innovative solution efficiently analyzes image data to classify the presence or absence of fire. Leveraging deep learning techniques, the model enhances surveillance systems by providing real-time identification of potential fire incidents. Its robust design ensures accuracy and reliability in discerning critical situations, making it a valuable addition to security infrastructure. This repository serves as a resource for implementing cutting-edge fire detection capabilities, contributing to enhanced safety measures in diverse environments.
 </div>
  
 # Dataset
