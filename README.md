@@ -36,10 +36,6 @@ To use this project, follow these steps:
 ```bash
    git clone https://github.com/Sukanyasingh3/PyroDetect.git
    ```
-2. Install the required dependencies:
-  ```bash
-   pip install -r requirements.txt
-```
 ## Usage
 
 1. Navigate to the project directory:
